@@ -6,4 +6,4 @@ Setup guide
 2 - right click and open the file in NotePad                                                                                                                                                                                                                                          
 3 - set your webhook here | SET "webhookUrl=<DISCORD_WEBHOOK_HERE>" like this : SET "webhookUrl=https://discord.com/api/webhooks/1234567890/abcdefghijklmnop                                                                                                                                                                                                                                          
 4 - save fil and run                                                                                                                                                                                                                                           
-HVAE FUN :-D
+HAVE FUN :-D
