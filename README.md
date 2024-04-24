@@ -7,3 +7,5 @@ Setup guide
 3 - set your webhook here | SET "webhookUrl=<DISCORD_WEBHOOK_HERE>" like this : SET "webhookUrl=https://discord.com/api/webhooks/1234567890/abcdefghijklmnop                                                                                                                                                                                                                                          
 4 - save fil and run                                                                                                                                                                                                                                           
 HAVE FUN :-D
+
+Made By @Murdervan - github.com/murdervan/
